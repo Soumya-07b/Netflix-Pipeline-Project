@@ -13,17 +13,17 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NETFLIX LOGIN IN V-7.1</h2>
+      <h2>NETFLIX SIGN IN V-5.1</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Email ID / Mobile number</label>
+          <label>Email ID OR Mobile number</label>
         </div>
         <div class="form-control">
-          <input type="Enter your password" required />
+          <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit">WELCOME TO NETFLIX V-7.1</button>
+        <button type="submit">WELCOME TO NETFLIX V-5.1</button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
